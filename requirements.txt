@@ -1,7 +1,7 @@
 Flask==1.0.2
 gunicorn==19.9.0
 Werkzeug==0.15.5
-tensorflow
+tensorflow-cpu
 pillow>=6.2.0
 numpy==1.19.3
 scikit-learn
