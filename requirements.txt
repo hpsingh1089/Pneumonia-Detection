@@ -6,6 +6,6 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.5
 tensorflow
 Pillow>=5.4.0
-numpy==1.17.2
+numpy>=1.19.3
 scikit-learn
 
