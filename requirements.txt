@@ -1,9 +1,9 @@
 Flask==1.0.2
 gunicorn==19.9.0
 Werkzeug==0.15.5
-tensorflow>=1.9.0
+tensorflow
 pillow>=6.2.0
-numpy>=1.19.3
+numpy
 scikit-learn
 Keras==2.1.5
 h5py
