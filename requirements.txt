@@ -9,4 +9,3 @@ Pillow>=5.4.0
 numpy==1.17.2
 scikit-learn==0.22.2
 pandas==0.25.1
-© 2021 GitHub, Inc.
